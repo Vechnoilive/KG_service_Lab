@@ -1,0 +1,4 @@
+cd C:\project\build
+cmake --build . --config Release
+cd C:\project
+.\build\graph_server.exe
